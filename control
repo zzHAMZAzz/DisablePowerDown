@@ -1,0 +1,9 @@
+Package: com.hamza.disablepowerdown
+Name: DisablePowerDown
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disabled powering down to prevent losing jailbroken mode
+Maintainer: Hamza
+Author: Hamza
+Section: Tweaks
